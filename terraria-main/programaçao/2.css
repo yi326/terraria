@@ -1,0 +1,24 @@
+header{
+     background-color: aliceblue;
+}
+
+body{
+    background-color: darkviolet;
+
+}
+
+h1{
+   color: black;
+    font-size: 60px;
+    text-align: center;
+}
+
+
+.p1{
+    font-size: 30px;
+}
+
+
+.titulos{
+    font-size: 35;
+}
